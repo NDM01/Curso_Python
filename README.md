@@ -3,4 +3,4 @@
 <h1>Seção 2: Python Básico( Lógica de Programação):</h1>
 <h1>Aula 1 -- Aula 29</h1>
 <h1>Seção 3: Python intermédio( Programação Procedural):</h1>
-<h1>Aula 30 -- ...</h1>
+<h1>Aula 30 -- Aula 60</h1>
