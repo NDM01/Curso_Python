@@ -8,15 +8,14 @@ def velocidade(funcao):
         resultado = funcao(*args, **kwargs)
         end_time = time()
         tempo = (end_time - start_time) * 1000
-        print(f'A função {funcao.__name__} levou {tempo}ms para executar')
+        print(f'A função {funcao.__name__} levou {tempo:.2f}ms para executar')
         return resultado
-
-
     return interna()
+
 
 @velocidade
 def demora():
     for i in range(100):
         print(i, end='')
 
-demora()
+
