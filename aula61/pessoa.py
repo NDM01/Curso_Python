@@ -5,8 +5,6 @@ class Pessoa:
         self.comer = comer
         self.falar = falar
 
-        variavel = 'Valor'
-        print(variavel)
-
-    def outro_metodo(self):
-        print
+    def comer(self, alimentos):
+        print(f'{self.nome} está a comer {alimentos}')
+        self.comer = True
