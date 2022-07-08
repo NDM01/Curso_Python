@@ -4,3 +4,5 @@
 <h1>Aula 1 -- Aula 29</h1>
 <h1>Seção 3: Python intermédio( Programação Procedural):</h1>
 <h1>Aula 30 -- Aula 60</h1>
+<h1>Seção 4 -- Introdução à Programação Orientada a Objetos POO( Classes)</h1>
+<h1>Aula 61 -- ...</h1>
